@@ -1,6 +1,8 @@
-## Nama : Fatimah Nurmawati
-## NIM : H1D023019
-## Shift : C
+### Nama : Fatimah Nurmawati
+### NIM : H1D023019
+### Shift : C
+
+---
 
 # 📱 IF Unsoed Mobile
 
