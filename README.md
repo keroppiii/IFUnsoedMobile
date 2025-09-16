@@ -1,3 +1,7 @@
+## Nama : Fatimah Nurmawati
+## NIM : H1D023019
+## Shift : C
+
 # 📱 IF Unsoed Mobile
 
 **IF Unsoed Mobile** adalah aplikasi Android sederhana yang menampilkan informasi seputar **Program Studi Informatika Universitas Jenderal Soedirman**.
