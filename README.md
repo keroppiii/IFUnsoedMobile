@@ -26,6 +26,6 @@
 ---
 
 ## Tugas 2 Pertemuan 3
-| Demo Tugas 2 (Perpindahan Halaman)     |
-|----------------------------------------|
-| ![demo tugas 2](assets\demotugas2.gif) |
+| Demo Tugas 2 (Perpindahan Halaman)   |
+|--------------------------------------|
+| ![demotugas2](assets/demotugas2.gif) |
