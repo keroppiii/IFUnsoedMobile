@@ -22,3 +22,10 @@
 | Tampilan                     | History                        | APK Mobile                    |
 |------------------------------|--------------------------------|-------------------------------|
 | ![Home](assets/tampilan.jpg) | ![History](assets/history.jpg) | ![APK](assets/apk_mobile.jpg) |
+
+---
+
+## Tugas 2 Pertemuan 3
+| Demo Tugas 2 (Perpindahan Halaman)     |
+|----------------------------------------|
+| ![demo tugas 2](assets\demotugas2.gif) |
