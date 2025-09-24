@@ -29,3 +29,10 @@
 | Demo Tugas 2 (Perpindahan Halaman)   |
 |--------------------------------------|
 | ![demotugas2](assets/demotugas2.gif) |
+
+---
+
+## Tugas 3 Pertemuan 4
+| Demo Tugas 3 (Daftar Buku)            |
+|---------------------------------------|
+| ![demotugas2](assets/Tugas3Pert4.gif) |
