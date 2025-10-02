@@ -35,4 +35,11 @@
 ## Tugas 3 Pertemuan 4
 | Demo Tugas 3 (Daftar Buku)            |
 |---------------------------------------|
-| ![demotugas2](assets/Tugas3Pert4.gif) |
+| ![demotugas3](assets/Tugas3Pert4.gif) |
+
+---
+## Tugas 4 Pertemuan 5
+| Demo Tugas 4 (Fragment)               |
+|---------------------------------------|
+| ![demotugas4](assets/Tugas4Pert5.gif) |
+
